@@ -1,29 +1,8 @@
 # anujvora.github.io
 
+## About
 
+## Heading
 
+### Sub-heading
 
-
-## Branches
-
-
-
-## Contributing 
-
-
-
-### Requirements
-
-
-## Local Development
-
-## Resources
-
-
-## Website
-
-### Webdesign License
-
-
-
-### Reporting Website Bugs
